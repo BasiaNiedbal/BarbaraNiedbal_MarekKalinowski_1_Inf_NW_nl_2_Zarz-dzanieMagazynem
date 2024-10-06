@@ -1,0 +1,3 @@
+# BarbaraNiedbal_MarekKalinowski_1_Inf_NW_nl_2_Zarz-dzanieMagazynem
+
+Projekt zaliczeniowy z Projektowania objektowego dotyczący Zarządzania Magazynem
