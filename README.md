@@ -10,5 +10,7 @@ wirtualna baza danych;
 
 opis klasy(produktu) ID, nazwe, ilość, minimalny stan magazynowy(informacja o brakach na stanie);!
 
-Klasa użytkownik(id, nazwa, haslo)
+dodawanie nowych pozycji, zmiana ilości;
+
+Klasa użytkownik(id, nazwa, haslo);
 
