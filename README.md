@@ -14,3 +14,4 @@ dodawanie nowych pozycji, zmiana ilości;
 
 Klasa użytkownik(id, nazwa, haslo);
 
+interfejs: logowanie, lista produktów, wyszukiwanie produktów, zmiana stanów, dodawanie/usuwanie produktów
